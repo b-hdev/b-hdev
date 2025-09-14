@@ -99,6 +99,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats-ten-pied.vercel.app/api?username=b-hdev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&timestamp=2" height="180">
-  <img src="https://github-readme-stats-ten-pied.vercel.app/api/top-langs/?username=b-hdev&layout=compact&langs_count=5&theme=radical" height="180">
+  <img src="https://github-readme-stats-ten-pied.vercel.app/api?username=b-hdev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&timestamp=4" height="180">
+  <img src="https://github-readme-stats-ten-pied.vercel.app/api/top-langs/?username=b-hdev&layout=compact&langs_count=5&theme=radical&timestamp=4" height="180">
 </p>
